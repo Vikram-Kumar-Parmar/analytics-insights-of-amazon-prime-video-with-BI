@@ -31,7 +31,7 @@ The dashboard is a KPI + visual-story layout: a top strip of headline metrics, a
 ## Preview
 
 <p align="center">
-  <img src="./Amazon Prime Video Dashboard by Vikram Kumar.png" alt="Full dashboard screenshot" width="100%">
+  <img src="./thumbnail-linkedin.png" alt="Full dashboard screenshot" width="100%">
 </p>
 
 ## Dataset
