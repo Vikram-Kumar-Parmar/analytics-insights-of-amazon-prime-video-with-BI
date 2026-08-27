@@ -34,6 +34,13 @@ The dashboard is a KPI + visual-story layout: a top strip of headline metrics, a
   <img src="./thumbnail-linkedin.png" alt="Full dashboard screenshot" width="100%">
 </p>
 
+## Real Dashboard Preview
+
+<p align="center">
+  <img src="./Prime Video Analytics Dashboard_Vikram Kumar.png" alt="Full dashboard screenshot" width="100%">
+</p>
+
+
 ## Dataset
 
 | | |
