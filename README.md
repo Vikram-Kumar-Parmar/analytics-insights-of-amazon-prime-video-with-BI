@@ -2,7 +2,7 @@
   <img src="./thumbnail-github-social.png" alt="Amazon Prime Video Analytics Dashboard banner" width="100%">
 </p>
 
-<h1 align="center">Amazon Prime Video — Content Analytics Dashboard</h1>
+<h1 align="center">Analytics, Insights of Amazon Prime Video With BI Dashbaord</h1>
 
 <p align="center">
   An interactive Power BI dashboard analyzing 9,655 Amazon Prime Video titles (1920–2021) —
@@ -79,7 +79,7 @@ Notable data quality characteristics handled in the model:
 ```
 ├── Amazon Prime Video Dashboard.pbix        # Power BI report file
 ├── amazon_prime_titles.csv                  # Source dataset
-├── Amazon Prime Video Dashboard by Shaikh Minhaj.png   # Full dashboard screenshot
+├── Amazon Prime Video Dashboard by Vikram Kumar.png   # Full dashboard screenshot
 ├── thumbnail-github-social.png              # Social preview banner (this repo)
 ├── thumbnail-linkedin.png                   # LinkedIn post cover
 └── README.md
@@ -90,7 +90,7 @@ Notable data quality characteristics handled in the model:
 1. Install [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop) (Windows only, free).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/minhaj-313/Amazon-Prime-Video-Dashboard-Using-PowerBi.git
+   git clone https://github.com/Vikram-Kumar-Parmar/analytics-insights-of-amazon-prime-video-with-BI/
    ```
 3. Open `Amazon Prime Video Dashboard.pbix` in Power BI Desktop.
 4. If prompted, point the data source to the local path of `amazon_prime_titles.csv`.
@@ -105,8 +105,8 @@ Notable data quality characteristics handled in the model:
 
 ## Author
 
-**Shaikh Minhaj**
-📧 sdeminhaj@gmail.com
+**Vikram Kumar**
+📧 sirvkparmar@gmail.com
 
 If you use or fork this project, a ⭐ on the repo is appreciated.
 
