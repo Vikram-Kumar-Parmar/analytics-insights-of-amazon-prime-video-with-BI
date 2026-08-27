@@ -90,7 +90,7 @@ Notable data quality characteristics handled in the model:
 1. Install [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop) (Windows only, free).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/minhaj-313/Amazon-Prime-Video-Dashboard-Using-PowerBi.git
+   git clone https://github.com/Vikram-Kumar-Parmar/analytics-insights-of-amazon-prime-video-with-BI/
    ```
 3. Open `Amazon Prime Video Dashboard.pbix` in Power BI Desktop.
 4. If prompted, point the data source to the local path of `amazon_prime_titles.csv`.
